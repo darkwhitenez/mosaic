@@ -22,3 +22,6 @@ Mosaic image (construced with pigs pictures dataset :D)
 <p align="center">
 <img width="250" src="/pictures/output.jpg">
 </p>
+
+ - Credits
+    * [Dolores Sebalj](https://github.com/dosebal)
